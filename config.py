@@ -6,7 +6,7 @@ from datetime import datetime
 APP_NAME = "DengsonHack"
 AUTHOR = "Siro"
 GITHUB = "https://github.com/Jamz-colins"
-VERSION = "2.0.0"
+VERSION = "2.1.0"
 
 # Palet Warna Catppuccin Mocha
 THEME = {
